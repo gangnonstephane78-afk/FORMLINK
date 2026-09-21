@@ -1,0 +1,21 @@
+ID,Activité,Ancienneté,Note les ventes ?,Suit les dépenses ?,Connaît son bénéfice ?,Difficulté principale,A déjà demandé un financement ?,Smartphone ?,Application utile ?,Fonctionnalité prioritaire
+P01,Boutique / alimentation générale,5 ans,Oui,Oui,Partiellement,Gestion de trésorerie,Oui,Oui,Oui,Suivi ventes/dépenses
+P02,Couture,4 ans,Non,Non,Non,Gestion,Non,Oui,Oui,Calcul automatique du bénéfice
+P03,Restaurant / maquis,7 ans,Oui,Oui,Oui,Coût des matières premières,Oui,Oui,Oui,Gestion des dépenses
+P04,Coiffure,3 ans,Non,Non,Non,Épargne et gestion,Non,Oui,Oui,Suivi quotidien des recettes
+P05,Atelier de menuiserie,8 ans,Oui,Oui,Partiellement,Financement,Oui,Oui,Oui,Rapport financier
+P06,Réparation de téléphones,3 ans,Oui,Non,Non,Suivi des dépenses,Non,Oui,Oui,Gestion stock + dépenses
+P07,Vente de vêtements,6 ans,Oui,Oui,Partiellement,Trésorerie,Oui,Oui,Oui,Stock et ventes
+P08,Commerce de chaussures,4 ans,Oui,Non,Non,Gestion du stock,Oui,Oui,Oui,Gestion du stock
+P09,Mécanique automobile,10 ans,Non,Non,Non,Organisation des comptes,Oui,Oui,Oui,Historique des opérations
+P10,Vente de fruits et légumes,2 ans,Oui,Non,Non,Pertes de marchandises,Non,Oui,Oui,Suivi achats/ventes
+P11,Transformation de gari,6 ans,Oui,Oui,Partiellement,Accès au financement,Oui,Oui,Oui,Suivi bénéfices
+P12,Élevage de volailles,5 ans,Oui,Oui,Oui,Coût de production,Oui,Oui,Oui,Calcul coût/bénéfice
+P13,Agriculture / maraîchage,9 ans,Non,Non,Non,Financement,Oui,Oui,Oui,Gestion dépenses
+P14,Vente de pièces détachées,7 ans,Oui,Oui,Oui,Gestion du stock,Oui,Oui,Oui,Stock + ventes
+P15,Impression / photocopie,3 ans,Oui,Oui,Partiellement,Suivi des charges,Non,Oui,Oui,Tableau de bord
+P16,Bijouterie / artisanat,8 ans,Non,Non,Non,Gestion financière,Oui,Oui,Oui,Suivi recettes/dépenses
+P17,Vente de boissons / produits alimentaires,5 ans,Oui,Oui,Partiellement,Trésorerie,Oui,Oui,Oui,Bénéfice quotidien
+P18,Réparation motos,6 ans,Oui,Non,Partiellement,Gestion des achats,Oui,Oui,Oui,Achats + dépenses
+P19,Petite pâtisserie,2 ans,Oui,Oui,Oui,Coût des ingrédients,Non,Oui,Oui,Calcul du coût de revient
+P20,Commerce de produits cosmétiques,4 ans,Oui,Oui,Partiellement,Gestion du stock,Oui,Oui,Oui,Stock + ventes + bénéfices
